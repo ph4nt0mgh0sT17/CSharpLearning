@@ -12,7 +12,7 @@ namespace CSharpLearning
         /// Main method of the console application. Here is everything in the console.
         /// </summary>
         /// <param name="args">Arguments if console application is executed from cmd or something like that with parameters.</param>
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             // Basic application with writing basic text into console.
             Console.WriteLine("Hello, world!");
